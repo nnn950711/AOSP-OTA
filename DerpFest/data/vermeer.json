@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1747844616,
-      "filename": "DerpFest-15.1-Community-Stable-vermeer-20250228",
-      "id": "4298a8e0977aec344056b2af1b7b49d7745d7593c4935cfce513ae3bc5d8f9bd",
+      "datetime": 1748821967,
+      "filename": "DerpFest-v15.2-20250602-vermeer-Community-Stable.zip",
+      "id": "65fa8964c6aa7f4a45212f425b27f6d4276c14130453d4db689b819f99cd83e4",
       "romtype": "Community",
-      "size": 3979358738,
+      "size": 3978149562,
       "url": "https://sourceforge.net/projects/denlnister-project/files/AOSP-ROM/DerpFest/vermeer/DerpFest-15.1-Community-Stable-vermeer-20250228.zip/download",
-      "version": "15.2"
+      "version": "v15.2"
     }
   ]
 }
