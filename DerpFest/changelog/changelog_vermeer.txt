@@ -1,2 +1,11 @@
-===== 20250516 =====
-- Initial Android 15 Release
+===== 20250623 =====
+- Initial Android 15 QRP2 Release
+- Kernel source updated to 5.15.185
+- Update Blobs and Fw from OS2.0.103.0.VNKMIXM
+- Disable OMX service
+- Switch Touch AIDL
+- Includes SukiSU-Ultra v3.1.6 + SUSFS v1.5.8
+- Includes MIUI Camera
+- Includes MIUI Gallery
+- Includes MIUI GalleryEditor
+- Includes MIUI VideoPlayer
