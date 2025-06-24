@@ -1,4 +1,4 @@
-===== 20250623 =====
+===== 20250624 =====
 - Initial Android 15 QRP2 Release
 - Kernel source updated to 5.15.185
 - Update Blobs and Fw from OS2.0.103.0.VNKMIXM
