@@ -1,10 +1,18 @@
+===== 20250801 =====
+- Support Wi-Fi 6
+- Switch AudioOSS and Agm OSS
+- Move media.settings.xml props to system
+- Includes DolbyAtmos
+- Includes SukiSU-Ultra v3.1.8 + SuSFS v1.5.9
+
+
 ===== 20250711 =====
 - Initial Android 15 QRP2 Release
 - Kernel source updated to 5.15.185
 - Update Blobs and Fw from OS2.0.201.0.VNKMIXM
 - Disable OMX service
 - Switch Touch AIDL
-- Includes SukiSU-Ultra v3.1.7 + SUSFS v1.5.9
+- Includes SukiSU-Ultra v3.1.7 + SuSFS v1.5.9
 - Includes MIUI Camera
 - Includes MIUI Gallery
 - Includes MIUI GalleryEditor
