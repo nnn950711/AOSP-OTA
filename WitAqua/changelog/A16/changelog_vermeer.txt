@@ -1,0 +1,9 @@
+===== 2025-11-05 =====
+- Initial Android 16 Release
+- New Xiaomi-touch (Kernel integration)
+- Implement Touch Sampling Rate
+- Battery cycle counter 
+- Hactipc Text cursor implemented
+- Update Blobs from OS2.0.210.0.VMKCNXM(Socrates) and OS2.0.206.0.VNKMIXM(Vermeer)
+- Update firmware to OS2.0.206.0.VNKMIXM
+- Includes SukiSU-Ultra v3.2.0
