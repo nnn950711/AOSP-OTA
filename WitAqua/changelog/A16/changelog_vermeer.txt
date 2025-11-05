@@ -6,4 +6,4 @@
 - Hactipc Text cursor implemented
 - Update Blobs from OS2.0.210.0.VMKCNXM(Socrates) and OS2.0.206.0.VNKMIXM(Vermeer)
 - Update firmware to OS2.0.206.0.VNKMIXM
-- Includes SukiSU-Ultra v3.2.0
+- Includes SukiSU-Ultra v4.0.0
