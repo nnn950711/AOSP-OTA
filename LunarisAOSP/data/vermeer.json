@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "DenlNister",
+      "oem": "POCO",
+      "device": "vermeer",
+      "filename": "Lunaris-AOSP-vermeer-Community-3.7-GMS-2026021400.zip",
+      "download": "https://sourceforge.net/projects/denlnister-project/files/AOSP-ROM/LunarisAOSP/vermeer/Lunaris-AOSP-vermeer-Community-3.7-GMS-2026021400.zip/download",
+      "timestamp": 1771028323,
+      "md5": "32c3027479e0f5cf3af74458fdf16fe7",
+      "sha256": "c21807faac342281563680764d91f51e4575380c097bab0c55f78341e1f4f869",
+      "size": 4326778166,
+      "version": "3.7",
+      "buildtype": "userdebug",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "https://sourceforge.net/projects/denlnister-project/files/AOSP-ROM/LunarisAOSP/vermeer/recovery/recovery.img/download",
+      "paypal": "",
+      "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+===== 2026-02-14 =====
+- Initial Android 16 QPR2 Release
+- KernelOSS Update to 5.15.197
+- Update Blobs from OS3.0.4.0.VMKCNXM(Socrates) and OS3.0.6.0.WNKMIXM(Vermeer)
+- Update Firmware to OS3.0.6.0.WNKMIXM
+- Includes ReSukiSU v4.1.0 (34562)
+- Includes Dolby Atmos (NewUI)
+- Includes MiuiCamera
