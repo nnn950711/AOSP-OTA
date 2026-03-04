@@ -1,4 +1,4 @@
-===== 2026-03-12 =====
+===== 2026-03-03 =====
 - Added BLE Function
 - Update ReSukiSU v4.1.0 (34594)
 
