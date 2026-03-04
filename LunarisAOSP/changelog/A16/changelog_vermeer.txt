@@ -1,3 +1,7 @@
+===== 2026-03-12 =====
+- Added BLE Function
+- Update ReSukiSU v4.1.0 (34594)
+
 ===== 2026-02-14 =====
 - Initial Android 16 QPR2 Release
 - KernelOSS Update to 5.15.197
