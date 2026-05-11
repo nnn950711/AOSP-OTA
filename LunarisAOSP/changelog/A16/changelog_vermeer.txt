@@ -1,3 +1,11 @@
+===== 2026-05-10 =====
+- KernelOSS Update to 5.15.202
+- Update from OS3.0.303.0.WMKCNXM(Socrates) and OS3.0.301.0.WNKMIXM(Vermeer)
+- Update Mlipay blobs from diting OS3.0.1.0
+- Update Dolby blobs from OS3.0.301.0.WNKMIXM(Vermeer)
+- Removed MiuiGallery, MiuiVideoPlayer, and MiuiGalleryEditor (MiuiCamera now supports third-party gallery apps)
+- Removed ReSukiSU (Root access can now be obtained by patching the init_boot image)
+
 ===== 2026-04-02 =====
 - KernelOSS Update to 5.15.200
 - Update Blobs from OS3.0.5.0.VMKCNXM(Socrates) and OS3.0.7.0.WNKMIXM(Vermeer)
