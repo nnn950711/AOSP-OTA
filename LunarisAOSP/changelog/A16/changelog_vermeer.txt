@@ -1,3 +1,17 @@
+===== 2026-06-07 =====
+- KernelOSS Update to 5.15.207
+- Drop 90Hz
+- Enable Wi-Fi 6 SoftAP support
+- overlay: Delete configs set to default values
+- sepolicy: Remove already common nfc and mediacodec rules
+- Drop vendor radio build_region prop
+- Move default network property to vendor partition
+- Remove redundant and obsolete dalvik properties
+- Drop qemu.hw.mainkeys property
+- udfps: Workaround onFingerDown() race
+- Add source comment for SoterService
+- Build QSPA AIDL HAL
+
 ===== 2026-05-10 =====
 - KernelOSS Update to 5.15.202
 - Update Blobs from OS3.0.303.0.WMKCNXM (socrates) and OS3.0.301.0.WNKMIXM (vermeer)
