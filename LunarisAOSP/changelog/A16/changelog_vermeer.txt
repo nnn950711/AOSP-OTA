@@ -1,3 +1,6 @@
+===== 2026-07-06 =====
+- Update MiuiCamera v6.1
+
 ===== 2026-06-07 =====
 - KernelOSS Update to 5.15.207
 - Drop 90Hz
